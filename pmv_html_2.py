@@ -9,11 +9,11 @@ Original file is located at
 ## Comando para baixar o PDF
 """
 
-#!pip install langchain faiss-cpu sentence-transformers
-#!pip install langchain-community
-#!pip install langchain_huggingface
-#!pip install chromadb
-#!pip install langchain_openai
+!pip install langchain faiss-cpu sentence-transformers
+!pip install langchain-community
+!pip install langchain_huggingface
+!pip install chromadb
+!pip install langchain_openai
 
 !wget -O portaria19.html http://www.in.gov.br/web/dou/-/portaria-n-19-de-21-de-marco-de-2025-619527337
 
